@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 PREVIEW
-# [Simple Todo List] (https://simpletodolist-with-create-react-app.netlify.app/)
+[Simple Todo List] (https://simpletodolist-with-create-react-app.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
